@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "실전 자바 기본"
+title: "실전 자바 중급 1편"
 ---
 
 # 섹션1. Object 클래스
